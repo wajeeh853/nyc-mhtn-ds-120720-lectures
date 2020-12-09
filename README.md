@@ -40,7 +40,7 @@ git fetch upstream main
 
 2. Merge the new changes from the upstream learn-co lecture notes repo, with a commit message
 ```
-git merge upstream/master -m 'pulled updates'
+git merge upstream/main -m 'pulled updates'
 ```
 
 
